@@ -7,6 +7,7 @@ $css = <<<EOF
   height: 11px;
   background-repeat: no-repeat;
   background-position: center;
+  display: inline-block;
 }
 EOF;
 $css .= PHP_EOL;

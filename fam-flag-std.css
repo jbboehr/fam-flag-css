@@ -4,6 +4,7 @@
   height: 11px;
   background-repeat: no-repeat;
   background-position: center;
+  display: inline-block;
 }
 .fam-flag-ad {
   background-image: url(icons/ad.png);
