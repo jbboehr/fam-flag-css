@@ -1,0 +1,748 @@
+.fam-flag {
+  padding: 0;
+  width: 16px;
+  height: 11px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.fam-flag-ad {
+  background-image: url(icons/ad.png);
+}
+.fam-flag-ae {
+  background-image: url(icons/ae.png);
+}
+.fam-flag-af {
+  background-image: url(icons/af.png);
+}
+.fam-flag-ag {
+  background-image: url(icons/ag.png);
+}
+.fam-flag-ai {
+  background-image: url(icons/ai.png);
+}
+.fam-flag-al {
+  background-image: url(icons/al.png);
+}
+.fam-flag-am {
+  background-image: url(icons/am.png);
+}
+.fam-flag-an {
+  background-image: url(icons/an.png);
+}
+.fam-flag-ao {
+  background-image: url(icons/ao.png);
+}
+.fam-flag-ar {
+  background-image: url(icons/ar.png);
+}
+.fam-flag-as {
+  background-image: url(icons/as.png);
+}
+.fam-flag-at {
+  background-image: url(icons/at.png);
+}
+.fam-flag-au {
+  background-image: url(icons/au.png);
+}
+.fam-flag-aw {
+  background-image: url(icons/aw.png);
+}
+.fam-flag-ax {
+  background-image: url(icons/ax.png);
+}
+.fam-flag-az {
+  background-image: url(icons/az.png);
+}
+.fam-flag-ba {
+  background-image: url(icons/ba.png);
+}
+.fam-flag-bb {
+  background-image: url(icons/bb.png);
+}
+.fam-flag-bd {
+  background-image: url(icons/bd.png);
+}
+.fam-flag-be {
+  background-image: url(icons/be.png);
+}
+.fam-flag-bf {
+  background-image: url(icons/bf.png);
+}
+.fam-flag-bg {
+  background-image: url(icons/bg.png);
+}
+.fam-flag-bh {
+  background-image: url(icons/bh.png);
+}
+.fam-flag-bi {
+  background-image: url(icons/bi.png);
+}
+.fam-flag-bj {
+  background-image: url(icons/bj.png);
+}
+.fam-flag-bm {
+  background-image: url(icons/bm.png);
+}
+.fam-flag-bn {
+  background-image: url(icons/bn.png);
+}
+.fam-flag-bo {
+  background-image: url(icons/bo.png);
+}
+.fam-flag-br {
+  background-image: url(icons/br.png);
+}
+.fam-flag-bs {
+  background-image: url(icons/bs.png);
+}
+.fam-flag-bt {
+  background-image: url(icons/bt.png);
+}
+.fam-flag-bv {
+  background-image: url(icons/bv.png);
+}
+.fam-flag-bw {
+  background-image: url(icons/bw.png);
+}
+.fam-flag-by {
+  background-image: url(icons/by.png);
+}
+.fam-flag-bz {
+  background-image: url(icons/bz.png);
+}
+.fam-flag-ca {
+  background-image: url(icons/ca.png);
+}
+.fam-flag-catalonia {
+  background-image: url(icons/catalonia.png);
+}
+.fam-flag-cc {
+  background-image: url(icons/cc.png);
+}
+.fam-flag-cd {
+  background-image: url(icons/cd.png);
+}
+.fam-flag-cf {
+  background-image: url(icons/cf.png);
+}
+.fam-flag-cg {
+  background-image: url(icons/cg.png);
+}
+.fam-flag-ch {
+  background-image: url(icons/ch.png);
+}
+.fam-flag-ci {
+  background-image: url(icons/ci.png);
+}
+.fam-flag-ck {
+  background-image: url(icons/ck.png);
+}
+.fam-flag-cl {
+  background-image: url(icons/cl.png);
+}
+.fam-flag-cm {
+  background-image: url(icons/cm.png);
+}
+.fam-flag-cn {
+  background-image: url(icons/cn.png);
+}
+.fam-flag-co {
+  background-image: url(icons/co.png);
+}
+.fam-flag-cr {
+  background-image: url(icons/cr.png);
+}
+.fam-flag-cs {
+  background-image: url(icons/cs.png);
+}
+.fam-flag-cu {
+  background-image: url(icons/cu.png);
+}
+.fam-flag-cv {
+  background-image: url(icons/cv.png);
+}
+.fam-flag-cx {
+  background-image: url(icons/cx.png);
+}
+.fam-flag-cy {
+  background-image: url(icons/cy.png);
+}
+.fam-flag-cz {
+  background-image: url(icons/cz.png);
+}
+.fam-flag-de {
+  background-image: url(icons/de.png);
+}
+.fam-flag-dj {
+  background-image: url(icons/dj.png);
+}
+.fam-flag-dk {
+  background-image: url(icons/dk.png);
+}
+.fam-flag-dm {
+  background-image: url(icons/dm.png);
+}
+.fam-flag-do {
+  background-image: url(icons/do.png);
+}
+.fam-flag-dz {
+  background-image: url(icons/dz.png);
+}
+.fam-flag-ec {
+  background-image: url(icons/ec.png);
+}
+.fam-flag-ee {
+  background-image: url(icons/ee.png);
+}
+.fam-flag-eg {
+  background-image: url(icons/eg.png);
+}
+.fam-flag-eh {
+  background-image: url(icons/eh.png);
+}
+.fam-flag-england {
+  background-image: url(icons/england.png);
+}
+.fam-flag-er {
+  background-image: url(icons/er.png);
+}
+.fam-flag-es {
+  background-image: url(icons/es.png);
+}
+.fam-flag-et {
+  background-image: url(icons/et.png);
+}
+.fam-flag-europeanunion {
+  background-image: url(icons/europeanunion.png);
+}
+.fam-flag-fam {
+  background-image: url(icons/fam.png);
+}
+.fam-flag-fi {
+  background-image: url(icons/fi.png);
+}
+.fam-flag-fj {
+  background-image: url(icons/fj.png);
+}
+.fam-flag-fk {
+  background-image: url(icons/fk.png);
+}
+.fam-flag-fm {
+  background-image: url(icons/fm.png);
+}
+.fam-flag-fo {
+  background-image: url(icons/fo.png);
+}
+.fam-flag-fr {
+  background-image: url(icons/fr.png);
+}
+.fam-flag-ga {
+  background-image: url(icons/ga.png);
+}
+.fam-flag-gb {
+  background-image: url(icons/gb.png);
+}
+.fam-flag-gd {
+  background-image: url(icons/gd.png);
+}
+.fam-flag-ge {
+  background-image: url(icons/ge.png);
+}
+.fam-flag-gf {
+  background-image: url(icons/gf.png);
+}
+.fam-flag-gh {
+  background-image: url(icons/gh.png);
+}
+.fam-flag-gi {
+  background-image: url(icons/gi.png);
+}
+.fam-flag-gl {
+  background-image: url(icons/gl.png);
+}
+.fam-flag-gm {
+  background-image: url(icons/gm.png);
+}
+.fam-flag-gn {
+  background-image: url(icons/gn.png);
+}
+.fam-flag-gp {
+  background-image: url(icons/gp.png);
+}
+.fam-flag-gq {
+  background-image: url(icons/gq.png);
+}
+.fam-flag-gr {
+  background-image: url(icons/gr.png);
+}
+.fam-flag-gs {
+  background-image: url(icons/gs.png);
+}
+.fam-flag-gt {
+  background-image: url(icons/gt.png);
+}
+.fam-flag-gu {
+  background-image: url(icons/gu.png);
+}
+.fam-flag-gw {
+  background-image: url(icons/gw.png);
+}
+.fam-flag-gy {
+  background-image: url(icons/gy.png);
+}
+.fam-flag-hk {
+  background-image: url(icons/hk.png);
+}
+.fam-flag-hm {
+  background-image: url(icons/hm.png);
+}
+.fam-flag-hn {
+  background-image: url(icons/hn.png);
+}
+.fam-flag-hr {
+  background-image: url(icons/hr.png);
+}
+.fam-flag-ht {
+  background-image: url(icons/ht.png);
+}
+.fam-flag-hu {
+  background-image: url(icons/hu.png);
+}
+.fam-flag-id {
+  background-image: url(icons/id.png);
+}
+.fam-flag-ie {
+  background-image: url(icons/ie.png);
+}
+.fam-flag-il {
+  background-image: url(icons/il.png);
+}
+.fam-flag-in {
+  background-image: url(icons/in.png);
+}
+.fam-flag-io {
+  background-image: url(icons/io.png);
+}
+.fam-flag-iq {
+  background-image: url(icons/iq.png);
+}
+.fam-flag-ir {
+  background-image: url(icons/ir.png);
+}
+.fam-flag-is {
+  background-image: url(icons/is.png);
+}
+.fam-flag-it {
+  background-image: url(icons/it.png);
+}
+.fam-flag-jm {
+  background-image: url(icons/jm.png);
+}
+.fam-flag-jo {
+  background-image: url(icons/jo.png);
+}
+.fam-flag-jp {
+  background-image: url(icons/jp.png);
+}
+.fam-flag-ke {
+  background-image: url(icons/ke.png);
+}
+.fam-flag-kg {
+  background-image: url(icons/kg.png);
+}
+.fam-flag-kh {
+  background-image: url(icons/kh.png);
+}
+.fam-flag-ki {
+  background-image: url(icons/ki.png);
+}
+.fam-flag-km {
+  background-image: url(icons/km.png);
+}
+.fam-flag-kn {
+  background-image: url(icons/kn.png);
+}
+.fam-flag-kp {
+  background-image: url(icons/kp.png);
+}
+.fam-flag-kr {
+  background-image: url(icons/kr.png);
+}
+.fam-flag-kw {
+  background-image: url(icons/kw.png);
+}
+.fam-flag-ky {
+  background-image: url(icons/ky.png);
+}
+.fam-flag-kz {
+  background-image: url(icons/kz.png);
+}
+.fam-flag-la {
+  background-image: url(icons/la.png);
+}
+.fam-flag-lb {
+  background-image: url(icons/lb.png);
+}
+.fam-flag-lc {
+  background-image: url(icons/lc.png);
+}
+.fam-flag-li {
+  background-image: url(icons/li.png);
+}
+.fam-flag-lk {
+  background-image: url(icons/lk.png);
+}
+.fam-flag-lr {
+  background-image: url(icons/lr.png);
+}
+.fam-flag-ls {
+  background-image: url(icons/ls.png);
+}
+.fam-flag-lt {
+  background-image: url(icons/lt.png);
+}
+.fam-flag-lu {
+  background-image: url(icons/lu.png);
+}
+.fam-flag-lv {
+  background-image: url(icons/lv.png);
+}
+.fam-flag-ly {
+  background-image: url(icons/ly.png);
+}
+.fam-flag-ma {
+  background-image: url(icons/ma.png);
+}
+.fam-flag-mc {
+  background-image: url(icons/mc.png);
+}
+.fam-flag-md {
+  background-image: url(icons/md.png);
+}
+.fam-flag-me {
+  background-image: url(icons/me.png);
+}
+.fam-flag-mg {
+  background-image: url(icons/mg.png);
+}
+.fam-flag-mh {
+  background-image: url(icons/mh.png);
+}
+.fam-flag-mk {
+  background-image: url(icons/mk.png);
+}
+.fam-flag-ml {
+  background-image: url(icons/ml.png);
+}
+.fam-flag-mm {
+  background-image: url(icons/mm.png);
+}
+.fam-flag-mn {
+  background-image: url(icons/mn.png);
+}
+.fam-flag-mo {
+  background-image: url(icons/mo.png);
+}
+.fam-flag-mp {
+  background-image: url(icons/mp.png);
+}
+.fam-flag-mq {
+  background-image: url(icons/mq.png);
+}
+.fam-flag-mr {
+  background-image: url(icons/mr.png);
+}
+.fam-flag-ms {
+  background-image: url(icons/ms.png);
+}
+.fam-flag-mt {
+  background-image: url(icons/mt.png);
+}
+.fam-flag-mu {
+  background-image: url(icons/mu.png);
+}
+.fam-flag-mv {
+  background-image: url(icons/mv.png);
+}
+.fam-flag-mw {
+  background-image: url(icons/mw.png);
+}
+.fam-flag-mx {
+  background-image: url(icons/mx.png);
+}
+.fam-flag-my {
+  background-image: url(icons/my.png);
+}
+.fam-flag-mz {
+  background-image: url(icons/mz.png);
+}
+.fam-flag-na {
+  background-image: url(icons/na.png);
+}
+.fam-flag-nc {
+  background-image: url(icons/nc.png);
+}
+.fam-flag-ne {
+  background-image: url(icons/ne.png);
+}
+.fam-flag-nf {
+  background-image: url(icons/nf.png);
+}
+.fam-flag-ng {
+  background-image: url(icons/ng.png);
+}
+.fam-flag-ni {
+  background-image: url(icons/ni.png);
+}
+.fam-flag-nl {
+  background-image: url(icons/nl.png);
+}
+.fam-flag-no {
+  background-image: url(icons/no.png);
+}
+.fam-flag-np {
+  background-image: url(icons/np.png);
+}
+.fam-flag-nr {
+  background-image: url(icons/nr.png);
+}
+.fam-flag-nu {
+  background-image: url(icons/nu.png);
+}
+.fam-flag-nz {
+  background-image: url(icons/nz.png);
+}
+.fam-flag-om {
+  background-image: url(icons/om.png);
+}
+.fam-flag-pa {
+  background-image: url(icons/pa.png);
+}
+.fam-flag-pe {
+  background-image: url(icons/pe.png);
+}
+.fam-flag-pf {
+  background-image: url(icons/pf.png);
+}
+.fam-flag-pg {
+  background-image: url(icons/pg.png);
+}
+.fam-flag-ph {
+  background-image: url(icons/ph.png);
+}
+.fam-flag-pk {
+  background-image: url(icons/pk.png);
+}
+.fam-flag-pl {
+  background-image: url(icons/pl.png);
+}
+.fam-flag-pm {
+  background-image: url(icons/pm.png);
+}
+.fam-flag-pn {
+  background-image: url(icons/pn.png);
+}
+.fam-flag-pr {
+  background-image: url(icons/pr.png);
+}
+.fam-flag-ps {
+  background-image: url(icons/ps.png);
+}
+.fam-flag-pt {
+  background-image: url(icons/pt.png);
+}
+.fam-flag-pw {
+  background-image: url(icons/pw.png);
+}
+.fam-flag-py {
+  background-image: url(icons/py.png);
+}
+.fam-flag-qa {
+  background-image: url(icons/qa.png);
+}
+.fam-flag-re {
+  background-image: url(icons/re.png);
+}
+.fam-flag-ro {
+  background-image: url(icons/ro.png);
+}
+.fam-flag-rs {
+  background-image: url(icons/rs.png);
+}
+.fam-flag-ru {
+  background-image: url(icons/ru.png);
+}
+.fam-flag-rw {
+  background-image: url(icons/rw.png);
+}
+.fam-flag-sa {
+  background-image: url(icons/sa.png);
+}
+.fam-flag-sb {
+  background-image: url(icons/sb.png);
+}
+.fam-flag-sc {
+  background-image: url(icons/sc.png);
+}
+.fam-flag-scotland {
+  background-image: url(icons/scotland.png);
+}
+.fam-flag-sd {
+  background-image: url(icons/sd.png);
+}
+.fam-flag-se {
+  background-image: url(icons/se.png);
+}
+.fam-flag-sg {
+  background-image: url(icons/sg.png);
+}
+.fam-flag-sh {
+  background-image: url(icons/sh.png);
+}
+.fam-flag-si {
+  background-image: url(icons/si.png);
+}
+.fam-flag-sj {
+  background-image: url(icons/sj.png);
+}
+.fam-flag-sk {
+  background-image: url(icons/sk.png);
+}
+.fam-flag-sl {
+  background-image: url(icons/sl.png);
+}
+.fam-flag-sm {
+  background-image: url(icons/sm.png);
+}
+.fam-flag-sn {
+  background-image: url(icons/sn.png);
+}
+.fam-flag-so {
+  background-image: url(icons/so.png);
+}
+.fam-flag-sr {
+  background-image: url(icons/sr.png);
+}
+.fam-flag-st {
+  background-image: url(icons/st.png);
+}
+.fam-flag-sv {
+  background-image: url(icons/sv.png);
+}
+.fam-flag-sy {
+  background-image: url(icons/sy.png);
+}
+.fam-flag-sz {
+  background-image: url(icons/sz.png);
+}
+.fam-flag-tc {
+  background-image: url(icons/tc.png);
+}
+.fam-flag-td {
+  background-image: url(icons/td.png);
+}
+.fam-flag-tf {
+  background-image: url(icons/tf.png);
+}
+.fam-flag-tg {
+  background-image: url(icons/tg.png);
+}
+.fam-flag-th {
+  background-image: url(icons/th.png);
+}
+.fam-flag-tj {
+  background-image: url(icons/tj.png);
+}
+.fam-flag-tk {
+  background-image: url(icons/tk.png);
+}
+.fam-flag-tl {
+  background-image: url(icons/tl.png);
+}
+.fam-flag-tm {
+  background-image: url(icons/tm.png);
+}
+.fam-flag-tn {
+  background-image: url(icons/tn.png);
+}
+.fam-flag-to {
+  background-image: url(icons/to.png);
+}
+.fam-flag-tr {
+  background-image: url(icons/tr.png);
+}
+.fam-flag-tt {
+  background-image: url(icons/tt.png);
+}
+.fam-flag-tv {
+  background-image: url(icons/tv.png);
+}
+.fam-flag-tw {
+  background-image: url(icons/tw.png);
+}
+.fam-flag-tz {
+  background-image: url(icons/tz.png);
+}
+.fam-flag-ua {
+  background-image: url(icons/ua.png);
+}
+.fam-flag-ug {
+  background-image: url(icons/ug.png);
+}
+.fam-flag-um {
+  background-image: url(icons/um.png);
+}
+.fam-flag-us {
+  background-image: url(icons/us.png);
+}
+.fam-flag-uy {
+  background-image: url(icons/uy.png);
+}
+.fam-flag-uz {
+  background-image: url(icons/uz.png);
+}
+.fam-flag-va {
+  background-image: url(icons/va.png);
+}
+.fam-flag-vc {
+  background-image: url(icons/vc.png);
+}
+.fam-flag-ve {
+  background-image: url(icons/ve.png);
+}
+.fam-flag-vg {
+  background-image: url(icons/vg.png);
+}
+.fam-flag-vi {
+  background-image: url(icons/vi.png);
+}
+.fam-flag-vn {
+  background-image: url(icons/vn.png);
+}
+.fam-flag-vu {
+  background-image: url(icons/vu.png);
+}
+.fam-flag-wales {
+  background-image: url(icons/wales.png);
+}
+.fam-flag-wf {
+  background-image: url(icons/wf.png);
+}
+.fam-flag-ws {
+  background-image: url(icons/ws.png);
+}
+.fam-flag-ye {
+  background-image: url(icons/ye.png);
+}
+.fam-flag-yt {
+  background-image: url(icons/yt.png);
+}
+.fam-flag-za {
+  background-image: url(icons/za.png);
+}
+.fam-flag-zm {
+  background-image: url(icons/zm.png);
+}
+.fam-flag-zw {
+  background-image: url(icons/zw.png);
+}
