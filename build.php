@@ -3,8 +3,8 @@
 $css = <<<EOF
 .fam-flag {
   padding: 0;
-  width: 16px;
-  height: 11px;
+  /* width: 16px; */
+  /* height: 11px; */
   background-repeat: no-repeat;
   background-position: center;
   display: inline-block;
@@ -48,13 +48,13 @@ foreach( $files as $file ) {
     continue;
   }
   
-//  $handle = imagecreatefrompng($file);
-//  $width = imagesx($handle);
-//  $height = imagesy($handle);
-//  imagedestroy($handle);
+  $handle = imagecreatefrompng($file);
+  $width = imagesx($handle);
+  $height = imagesy($handle);
+  imagedestroy($handle);
   $css .= '.fam-flag-' . $name . ' {' . PHP_EOL;
-//  $css .= '  width: ' . $width . 'px;' . PHP_EOL;
-//  $css .= '  height: ' . $height . 'px;' . PHP_EOL;
+  $css .= '  width: ' . $width . 'px;' . PHP_EOL;
+  $css .= '  height: ' . $height . 'px;' . PHP_EOL;
   $css .= '  background-image: url(' . $url . ');' . PHP_EOL;
   $css .= '}' . PHP_EOL;
 }
