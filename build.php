@@ -36,6 +36,7 @@ if( empty($files) ) {
   exit(1);
 }
 
+$supported = array();
 foreach( $files as $file ) {
   $name = substr(basename($file), 0, -4);
   
@@ -57,7 +58,11 @@ foreach( $files as $file ) {
   $css .= '  height: ' . $height . 'px;' . PHP_EOL;
   $css .= '  background-image: url(' . $url . ');' . PHP_EOL;
   $css .= '}' . PHP_EOL;
+  $supported[] = $name;
 }
 
 fwrite(STDOUT, $css);
+
+file_put_contents('supported.json', json_encode($supported));
+
 exit(0);

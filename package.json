@@ -1,7 +1,7 @@
 {
   "name": "fam-flag-css",
   "homepage": "https://github.com/jbboehr/fam-flag-css",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "dependencies": {
     "csso": "1.3.*"
   },
